@@ -4,3 +4,4 @@
 ![猫の画像](./kitten.jpg)
 
 new issue
+issue3
